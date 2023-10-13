@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamjonty
+- 👋 Hi, I’m @subham_423
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning various machine learning and deep learning models and applying it in different areas
 - 💞️ I’m looking to collaborate on ...
